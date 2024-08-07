@@ -504,6 +504,19 @@
 .icon-facebook-f:before {
   content: "\f09a";
 }
+.simple-icons--leetcode {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  --svg: url("C:\Users\ritika shukla\Downloads\ritikashukla\images\leetcode.png");
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
 .icon-github:before {
   content: "\f09b";
 }
