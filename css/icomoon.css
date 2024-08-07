@@ -508,7 +508,7 @@
   display: inline-block;
   width: 1em;
   height: 1em;
-  --svg: url("C:\Users\ritika shukla\Downloads\ritikashukla\images\leetcode.png");
+  --svg: url("leetcode.png");
   background-color: currentColor;
   -webkit-mask-image: var(--svg);
   mask-image: var(--svg);
