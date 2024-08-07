@@ -508,7 +508,7 @@
   display: inline-block;
   width: 1em;
   height: 1em;
-  --svg: url("leetcode.png");
+  --svg: url("images\leetcode.png");
   background-color: currentColor;
   -webkit-mask-image: var(--svg);
   mask-image: var(--svg);
